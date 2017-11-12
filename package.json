@@ -1,0 +1,44 @@
+{
+    "name"            : "@whizark/browserslist-config",
+    "version"         : "0.0.0",
+    "description"     : "browserslist sharable configuration files",
+    "keywords"        : [
+        "browserslist",
+        "browserslist-config"
+    ],
+    "homepage"        : "https://github.com/whizark/browserslist-config",
+    "bugs"            : {
+        "url": "https://github.com/whizark/browserslist-config/issues"
+    },
+    "license"         : "MIT",
+    "author"          : {
+        "name": "Whizark",
+        "url" : "http://whizark.com"
+    },
+    "files"           : [
+        "index.js",
+        "config"
+    ],
+    "main"            : "./index.js",
+    "repository"      : {
+        "type": "git",
+        "url" : "https://github.com/whizark/browserslist-config.git"
+    },
+    "scripts"         : {
+        "test": "ava"
+    },
+    "devDependencies" : {
+        "ava"            : "~0.23.0"
+    },
+    "peerDependencies": {
+        "brrowserslist": "~2.9.0"
+    },
+    "ava": {
+        "files"                : [
+            "test/**/*.js"
+        ],
+        "source"               : [
+            "**/*.js"
+        ]
+    }
+}
