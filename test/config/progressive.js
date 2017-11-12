@@ -1,5 +1,5 @@
 import test from 'ava';
-import progressive from '../../config/progressive';
+import {progressive} from '../../config';
 
 test('returns the progressive config', t => {
     const expected = [
