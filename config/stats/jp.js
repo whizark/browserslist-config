@@ -1,5 +1,10 @@
 'use strict';
 
-module.exports = [
-    '> 1% in JP',
-];
+module.exports = {
+    production : [
+        '> 1% in JP',
+    ],
+    development: [
+        'latest 1 version',
+    ],
+};
