@@ -9,5 +9,6 @@ module.exports = {
     ],
     development: [
         'latest 1 version',
+        'not dead',
     ],
 };

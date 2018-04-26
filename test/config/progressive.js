@@ -6,10 +6,12 @@ test('returns the progressive config', t => {
         production : [
             'last 2 versions',
             'Firefox ESR',
+            'not dead',
             '> 1%',
         ],
         development: [
             'latest 1 version',
+            'not dead',
         ],
     };
 

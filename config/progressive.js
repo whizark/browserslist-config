@@ -7,9 +7,11 @@ const config = {
     production : [
         'last 2 versions',
         'Firefox ESR',
+        'not dead',
     ],
     development: [
         'latest 1 version',
+        'not dead',
     ],
 };
 

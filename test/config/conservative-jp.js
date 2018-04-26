@@ -19,6 +19,7 @@ test('returns the conservative config in Japan', t => {
         ],
         development: [
             'latest 1 version',
+            'not dead',
         ],
     };
 
