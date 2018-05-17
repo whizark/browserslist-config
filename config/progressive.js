@@ -15,4 +15,4 @@ const config = {
     ],
 };
 
-module.exports = merge({}, config, usage);
+module.exports = merge({}, usage, config);
