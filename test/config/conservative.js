@@ -13,8 +13,8 @@ test('returns the conservative config', t => {
             'Firefox ESR',
             'last 2 iOS major versions',
             'last 1 Android major versions',
-            'last 2 ChromeAndroid versions',
-            'last 2 FirefoxAndroid versions',
+            'last 2 ChromeAndroid major versions',
+            'last 2 FirefoxAndroid major versions',
             '> 1%',
         ],
         development: [
