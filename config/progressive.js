@@ -10,7 +10,7 @@ const config = {
         'not dead',
     ],
     development: [
-        'latest 1 version',
+        'last 1 version',
         'not dead',
     ],
 };

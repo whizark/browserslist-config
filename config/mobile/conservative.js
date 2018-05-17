@@ -8,7 +8,7 @@ module.exports = {
         'last 2 FirefoxAndroid major versions',
     ],
     development: [
-        'latest 1 version',
+        'last 1 version',
         'not dead',
     ],
 };

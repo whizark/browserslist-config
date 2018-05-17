@@ -5,7 +5,7 @@ module.exports = {
         '> 1% in JP',
     ],
     development: [
-        'latest 1 version',
+        'last 1 version',
         'not dead',
     ],
 };
