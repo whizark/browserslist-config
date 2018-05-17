@@ -2,7 +2,7 @@
 
 module.exports = {
     production : [
-        '> 1%',
+        '> 0.5%',
     ],
     development: [
         'last 1 version',

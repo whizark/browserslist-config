@@ -4,7 +4,7 @@ import {progressive} from '../../config';
 test('returns the progressive config', t => {
     const expected = {
         production : [
-            '> 1%',
+            '> 0.5%',
             'last 2 versions',
             'Firefox ESR',
             'not dead',

@@ -4,7 +4,7 @@ import {conservative} from '../../config';
 test('returns the conservative config', t => {
     const expected = {
         production : [
-            '> 1%',
+            '> 0.5%',
             'last 1 Explorer major version',
             'last 2 Edge major versions',
             'last 2 Firefox major versions',
