@@ -35,7 +35,7 @@ deploy:
     - provider: npm
       email: npm@whizark.com
       api_key:
-          secure: rJOA2/47TaZDzgZNGmxsdbRTcSgXnwT3PbCVFmovSy+Ap/4YKNtkqHyPChYwQuh30GNobE4CxicTqDJmqnVgSRMtAdNUPlV6z5Hr/bN7p79/rAd+y2vYTfgIKUxMjvrc3Q4HLzOhKN4xlu17BpKDpn1sF+h3uk1M+lQeLcsawX3SyX0lp+H9bh2+0akyfyaOaPQZW+juOy7HL6tSGOuAln0GoqeOJTYUW1wF8M7JVYtraZJHyMhJdoLHhPNL1JIIQ1NiM997Z0CW3CDx6k0du51e4gzFLoTvATj+wmPhgPrStu3F6vZBrQW3GXphnJy2qLS5DvRywyK/jDBex5l5HdrUJ6u1rKqjiBBNo2KnV9xGhUuMeZh/r1qFC6L2nx92KIMrBhKlZ7CrsXm/56//qjOYQrSFx5oENtj+BXCrrDKK1QbocWjM//VmXPrJLcq7u9BQD7SQq4mN3ViRCm/zTjbLigfTf3ZrQcG19FSklLVpDLzo3um5cXYnLmoezwu/7GUn/GlL5K9TWpA5rOP2/Ma8Kwb2KKvCnYB4+kBkyEkJGi3Sb88ZoJtM3UPuw07cjq0km7YvNNSxvgvPD73JTKai4ZaBqcI/LK+fVUdG3N2xJBsh1IMp0T05freVIvDB5OK++1F4KS+EPyz/VyFtLngoedB5IzoyDzwg0ah7Oic=
+          secure: raOfcDdkIkeuarYrG/gMF7WduTqo53chgNoMzjmTDYQArpP5knDSswVq1vpS3x7rre8575NjyKALjiNShD5MsuwnnUqEQ6/PQq/Az9TLSLE9aLc1D+6mqrsz/6+fd18fkvxDMDjYKHrAe7hSfY12LFXsMGw5hx3/IS9AzfqzmnAUe4GsCbr9i6ZURh459PFdBIh4wHKDcEFEdPCW9GGKy4n5TBI/4w1eN0QGMiHDfY23RD5sj+fO/5hDtMV9A1hnXpzg+MmuzIxKbrinGcg4J0gKAW2H8G2jIvxtJQjhEqOv9Ys4osLt+8dYUO2u6dqFtVRMy9Gdk/yEWxwJC1vPoYts0gNIO1p+LvlXqFIKCp8IaYCw8AkTethmrJx+82PoOZIHoZelsde9NuVIBcDuX1nq4YE2PaFnhcae6bmLMyaVdGxuB040BPXoU463t/9uQMpI0ydt0TuFjwDbv81ykgfoJG+H1YQGtHshnev/Y5EOpa+iG/kDhuNVrXiWE8vz184v7k+9rXf8EZdMzKUdmqEe5wXlkQVCW2RvHQayM5PRG6vYh7ZD33Jym74LlwZ+ALPyw3zkgT72jWEKUdZtmKZeGIvyzap4eYPwPgWv2Q2yT5ehwKajPlXUZevd+VZ8JcuX2Bu0px5PRN1BUcuWWSMXVrX9yI2dWobnueboeC8=
       on:
           node: 8
           repo: whizark/browserslist-config
