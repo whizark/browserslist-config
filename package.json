@@ -28,16 +28,16 @@
         "test": "ava"
     },
     "devDependencies" : {
-        "ava": "~0.25.0"
+        "ava": "~1.2.1"
     },
     "peerDependencies": {
         "browserslist": "~4.2.0"
     },
     "ava"             : {
-        "files" : [
+        "files"  : [
             "test/**/*.js"
         ],
-        "source": [
+        "sources": [
             "**/*.js"
         ]
     }
