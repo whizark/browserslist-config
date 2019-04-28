@@ -3,11 +3,11 @@ sudo: false
 language: node_js
 
 node_js:
-    - 6
     - 8
     - 9
     - 10
     - 11
+    - 12
 
 matrix:
     fast_finish: true
@@ -38,7 +38,7 @@ deploy:
       api_key:
           secure: raOfcDdkIkeuarYrG/gMF7WduTqo53chgNoMzjmTDYQArpP5knDSswVq1vpS3x7rre8575NjyKALjiNShD5MsuwnnUqEQ6/PQq/Az9TLSLE9aLc1D+6mqrsz/6+fd18fkvxDMDjYKHrAe7hSfY12LFXsMGw5hx3/IS9AzfqzmnAUe4GsCbr9i6ZURh459PFdBIh4wHKDcEFEdPCW9GGKy4n5TBI/4w1eN0QGMiHDfY23RD5sj+fO/5hDtMV9A1hnXpzg+MmuzIxKbrinGcg4J0gKAW2H8G2jIvxtJQjhEqOv9Ys4osLt+8dYUO2u6dqFtVRMy9Gdk/yEWxwJC1vPoYts0gNIO1p+LvlXqFIKCp8IaYCw8AkTethmrJx+82PoOZIHoZelsde9NuVIBcDuX1nq4YE2PaFnhcae6bmLMyaVdGxuB040BPXoU463t/9uQMpI0ydt0TuFjwDbv81ykgfoJG+H1YQGtHshnev/Y5EOpa+iG/kDhuNVrXiWE8vz184v7k+9rXf8EZdMzKUdmqEe5wXlkQVCW2RvHQayM5PRG6vYh7ZD33Jym74LlwZ+ALPyw3zkgT72jWEKUdZtmKZeGIvyzap4eYPwPgWv2Q2yT5ehwKajPlXUZevd+VZ8JcuX2Bu0px5PRN1BUcuWWSMXVrX9yI2dWobnueboeC8=
       on:
-          node: 8
+          node: 12
           repo: whizark/browserslist-config
           branch: master
           tags: true
