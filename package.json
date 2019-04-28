@@ -1,6 +1,6 @@
 {
     "name"            : "@whizark/browserslist-config",
-    "version"         : "0.5.0",
+    "version"         : "0.5.1",
     "description"     : "browserslist sharable configuration files",
     "keywords"        : [
         "browserslist",
