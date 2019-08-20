@@ -28,7 +28,7 @@
         "test": "ava"
     },
     "devDependencies" : {
-        "ava": "2.0.0"
+        "ava": "2.3.0"
     },
     "peerDependencies": {
         "browserslist": "^4.4.0"
